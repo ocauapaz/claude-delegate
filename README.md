@@ -1,3 +1,5 @@
+**English** · [Português](README.pt-BR.md) · [Español](README.es.md) · [简体中文](README.zh-CN.md)
+
 # delegate
 
 A Claude Code skill that turns a messy prompt into a clean brief, picks the right depth
